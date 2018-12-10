@@ -10,7 +10,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=1in
-github: margaux renier
+github: margaux renier 
 jobtitle: Etudiant à l'Université de Mons
 keywords: Biologie, Science des données
 linkcolor: blue
@@ -24,7 +24,7 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-*Ecole secondaire*, orientation \hfill 2017
+*Ecole secondaire*, institut Notre Dame  \hfill 2014
 
 
 # EMPLOIS
